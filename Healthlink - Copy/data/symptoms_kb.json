@@ -1,0 +1,3813 @@
+[
+  {
+    "symptom": "Headache",
+    "category": "neurological",
+    "specialty": [
+      "Neurology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine",
+    "description": "Pain or pressure in head region",
+    "common_causes": [
+      "Tension",
+      "Migraines",
+      "Dehydration",
+      "Stress"
+    ],
+    "red_flags": [
+      "Sudden severe",
+      "With stiff neck",
+      "With vision changes"
+    ],
+    "recommended_actions": [
+      "Rest in dark room",
+      "Hydration",
+      "OTC pain relief"
+    ],
+    "specialist_referral": "Neurology if chronic",
+    "medications": [
+      "Acetaminophen",
+      "Ibuprofen",
+      "Aspirin"
+    ],
+    "contraindications": [
+      "NSAIDs if allergic"
+    ],
+    "duration": "Minutes to hours"
+  },
+  {
+    "symptom": "Fever",
+    "category": "general",
+    "specialty": [
+      "Internal Medicine",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "low",
+      "moderate",
+      "high"
+    ],
+    "urgency": "urgent if >103F",
+    "description": "Elevated body temperature >98.6F",
+    "common_causes": [
+      "Infection",
+      "Inflammation",
+      "Heat exhaustion"
+    ],
+    "red_flags": [
+      "With altered mental status",
+      "With difficulty breathing",
+      "In infants"
+    ],
+    "recommended_actions": [
+      "Rest",
+      "Fluids",
+      "Cooling measures"
+    ],
+    "specialist_referral": "Emergency if severe symptoms",
+    "medications": [
+      "Acetaminophen",
+      "Ibuprofen"
+    ],
+    "contraindications": [
+      "Age considerations"
+    ],
+    "duration": "3-7 days"
+  },
+  {
+    "symptom": "Chest Pain",
+    "category": "cardiac",
+    "specialty": [
+      "Cardiology",
+      "Emergency Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "emergency if acute with pressure",
+    "description": "Discomfort in chest area",
+    "common_causes": [
+      "Cardiac",
+      "Anxiety",
+      "Muscle strain",
+      "GERD"
+    ],
+    "red_flags": [
+      "Crushing pressure",
+      "Radiating to arm",
+      "With SOB",
+      "With diaphoresis"
+    ],
+    "recommended_actions": [
+      "Call 911",
+      "Chew aspirin",
+      "Await emergency response"
+    ],
+    "specialist_referral": "Emergency department mandatory",
+    "medications": [
+      "Aspirin",
+      "Nitroglycerin"
+    ],
+    "contraindications": [
+      "Aspirin allergy"
+    ],
+    "duration": "Immediate evaluation needed"
+  },
+  {
+    "symptom": "Shortness of Breath",
+    "category": "respiratory",
+    "specialty": [
+      "Pulmonology",
+      "Cardiology"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "emergency if acute",
+    "description": "Difficulty breathing",
+    "common_causes": [
+      "Asthma",
+      "Anxiety",
+      "Cardiac",
+      "Anemia"
+    ],
+    "red_flags": [
+      "At rest",
+      "With chest pain",
+      "Progressive"
+    ],
+    "recommended_actions": [
+      "Sit upright",
+      "Deep breathing",
+      "Fresh air"
+    ],
+    "specialist_referral": "Pulmonology or Emergency",
+    "medications": [
+      "Albuterol",
+      "Corticosteroids"
+    ],
+    "contraindications": [
+      "Use only if prescribed"
+    ],
+    "duration": "Depends on cause"
+  },
+  {
+    "symptom": "Abdominal Pain",
+    "category": "gastrointestinal",
+    "specialty": [
+      "Gastroenterology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if severe",
+    "description": "Discomfort in stomach/abdomen",
+    "common_causes": [
+      "Indigestion",
+      "Gastritis",
+      "IBS",
+      "Food intolerance"
+    ],
+    "red_flags": [
+      "Severe sudden onset",
+      "With fever/vomiting",
+      "With blood in stool"
+    ],
+    "recommended_actions": [
+      "Rest",
+      "Clear liquids",
+      "Monitor symptoms"
+    ],
+    "specialist_referral": "GI specialist if chronic",
+    "medications": [
+      "Antacids",
+      "Probiotics"
+    ],
+    "contraindications": [
+      "Avoid NSAIDs on empty stomach"
+    ],
+    "duration": "Hours to days"
+  },
+  {
+    "symptom": "Joint Pain",
+    "category": "musculoskeletal",
+    "specialty": [
+      "Orthopedics",
+      "Rheumatology"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless sudden",
+    "description": "Pain/swelling in joints",
+    "common_causes": [
+      "Arthritis",
+      "Injury",
+      "Autoimmune",
+      "Age"
+    ],
+    "red_flags": [
+      "Sudden with fever",
+      "Multiple joints",
+      "Significant swelling"
+    ],
+    "recommended_actions": [
+      "Rest",
+      "Ice/Heat",
+      "Compression",
+      "NSAIDs"
+    ],
+    "specialist_referral": "Rheumatology if polyarticular",
+    "medications": [
+      "Ibuprofen",
+      "Naproxen"
+    ],
+    "contraindications": [
+      "NSAIDs in kidney disease"
+    ],
+    "duration": "Depends on cause"
+  },
+  {
+    "symptom": "Skin Rash",
+    "category": "dermatological",
+    "specialty": [
+      "Dermatology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if with fever",
+    "description": "Abnormal skin appearance",
+    "common_causes": [
+      "Allergic reaction",
+      "Infection",
+      "Irritation"
+    ],
+    "red_flags": [
+      "Spreading rapidly",
+      "With fever",
+      "Difficulty breathing"
+    ],
+    "recommended_actions": [
+      "Keep clean",
+      "Avoid irritants",
+      "Cool compresses"
+    ],
+    "specialist_referral": "Dermatology if concerning",
+    "medications": [
+      "Antihistamines",
+      "Topical corticosteroids"
+    ],
+    "contraindications": [
+      "Identify allergen"
+    ],
+    "duration": "1-2 weeks"
+  },
+  {
+    "symptom": "Dizziness",
+    "category": "neurological",
+    "specialty": [
+      "Neurology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if with severe headache",
+    "description": "Lightheadedness or vertigo",
+    "common_causes": [
+      "Dehydration",
+      "Low BP",
+      "Inner ear",
+      "Anxiety"
+    ],
+    "red_flags": [
+      "With severe headache",
+      "Vision loss",
+      "Hearing loss"
+    ],
+    "recommended_actions": [
+      "Sit/lie down",
+      "Hydrate",
+      "Move slowly"
+    ],
+    "specialist_referral": "Neurology if recurrent",
+    "medications": [
+      "Meclizine"
+    ],
+    "contraindications": [
+      "Avoid driving"
+    ],
+    "duration": "Resolves quickly"
+  },
+  {
+    "symptom": "Anxiety",
+    "category": "psychiatric",
+    "specialty": [
+      "Psychiatry",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if suicidal",
+    "description": "Excessive worry/nervousness",
+    "common_causes": [
+      "Stress",
+      "Trauma",
+      "Medical",
+      "Substance"
+    ],
+    "red_flags": [
+      "Panic attacks",
+      "Suicidal thoughts",
+      "Severe impairment"
+    ],
+    "recommended_actions": [
+      "Deep breathing",
+      "Meditation",
+      "Physical activity"
+    ],
+    "specialist_referral": "Psychiatry recommended",
+    "medications": [
+      "SSRIs",
+      "Benzodiazepines"
+    ],
+    "contraindications": [
+      "Dependency risk"
+    ],
+    "duration": "Chronic management"
+  },
+  {
+    "symptom": "Back Pain",
+    "category": "musculoskeletal",
+    "specialty": [
+      "Orthopedics",
+      "Physical Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if with neurological symptoms",
+    "description": "Pain in back",
+    "common_causes": [
+      "Muscle strain",
+      "Herniated disc",
+      "Arthritis"
+    ],
+    "red_flags": [
+      "With leg weakness",
+      "With bowel/bladder changes"
+    ],
+    "recommended_actions": [
+      "Rest",
+      "Heat",
+      "Stretching",
+      "Exercises"
+    ],
+    "specialist_referral": "Orthopedics if persistent",
+    "medications": [
+      "NSAIDs",
+      "Muscle relaxants"
+    ],
+    "contraindications": [
+      "Avoid heavy lifting"
+    ],
+    "duration": "2-4 weeks"
+  },
+  {
+    "symptom": "Nausea and Vomiting",
+    "category": "gastrointestinal",
+    "specialty": [
+      "Gastroenterology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if with severe dehydration",
+    "description": "Feeling sick/expulsion of stomach contents",
+    "common_causes": [
+      "Viral infection",
+      "Food poisoning",
+      "Medication"
+    ],
+    "red_flags": [
+      "With severe abdominal pain",
+      "Blood in vomit"
+    ],
+    "recommended_actions": [
+      "Rest",
+      "Small fluid sips",
+      "Ginger",
+      "Bland diet"
+    ],
+    "specialist_referral": "GI if persistent",
+    "medications": [
+      "Ondansetron",
+      "Metoclopramide"
+    ],
+    "contraindications": [
+      "Avoid solid foods initially"
+    ],
+    "duration": "24-48 hours"
+  },
+  {
+    "symptom": "Fatigue",
+    "category": "general",
+    "specialty": [
+      "Internal Medicine",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless acute",
+    "description": "Extreme tiredness",
+    "common_causes": [
+      "Sleep deprivation",
+      "Anemia",
+      "Thyroid",
+      "Depression"
+    ],
+    "red_flags": [
+      "Sudden onset",
+      "With weight loss",
+      "With fever"
+    ],
+    "recommended_actions": [
+      "Adequate sleep",
+      "Balanced nutrition",
+      "Exercise"
+    ],
+    "specialist_referral": "Internal Medicine if persistent",
+    "medications": [
+      "Address underlying cause"
+    ],
+    "contraindications": [
+      "Avoid stimulants"
+    ],
+    "duration": "Depends on cause"
+  },
+  {
+    "symptom": "Vision Changes",
+    "category": "ophthalmological",
+    "specialty": [
+      "Ophthalmology",
+      "Neurology"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if sudden",
+    "description": "Changes in eyesight",
+    "common_causes": [
+      "Refractive error",
+      "Cataracts",
+      "Retinal issues"
+    ],
+    "red_flags": [
+      "Sudden vision loss",
+      "With severe headache",
+      "With eye pain"
+    ],
+    "recommended_actions": [
+      "Eye rest",
+      "Protective eyewear",
+      "Urgent exam"
+    ],
+    "specialist_referral": "Ophthalmology evaluation required",
+    "medications": [
+      "Artificial tears"
+    ],
+    "contraindications": [
+      "Avoid self-medication"
+    ],
+    "duration": "Depends on cause"
+  },
+  {
+    "symptom": "Ear Pain",
+    "category": "ENT",
+    "specialty": [
+      "ENT",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless with fever",
+    "description": "Pain in ear",
+    "common_causes": [
+      "Otitis media",
+      "Otitis externa",
+      "TMJ",
+      "Impacted cerumen"
+    ],
+    "red_flags": [
+      "With fever/drainage",
+      "With hearing loss"
+    ],
+    "recommended_actions": [
+      "Warm compresses",
+      "Pain relief",
+      "Keep clean"
+    ],
+    "specialist_referral": "ENT if persistent",
+    "medications": [
+      "Acetaminophen",
+      "Antibiotic drops"
+    ],
+    "contraindications": [
+      "Avoid water if perforated"
+    ],
+    "duration": "3-7 days"
+  },
+  {
+    "symptom": "Sore Throat",
+    "category": "ENT",
+    "specialty": [
+      "ENT",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if difficulty swallowing",
+    "description": "Pain in throat",
+    "common_causes": [
+      "Viral infection",
+      "Bacterial",
+      "Allergies",
+      "Acid reflux"
+    ],
+    "red_flags": [
+      "High fever",
+      "Difficulty swallowing",
+      "Difficulty breathing"
+    ],
+    "recommended_actions": [
+      "Throat lozenges",
+      "Warm liquids",
+      "Gargle"
+    ],
+    "specialist_referral": "ENT if bacterial",
+    "medications": [
+      "Ibuprofen",
+      "Throat lozenges"
+    ],
+    "contraindications": [
+      "None if viral"
+    ],
+    "duration": "3-7 days"
+  },
+  {
+    "symptom": "Hypertension",
+    "category": "cardiac",
+    "specialty": [
+      "Cardiology",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "stage1",
+      "stage2",
+      "crisis"
+    ],
+    "urgency": "emergency if >180/120",
+    "description": "High blood pressure",
+    "common_causes": [
+      "Obesity",
+      "Sedentary",
+      "High sodium",
+      "Stress"
+    ],
+    "red_flags": [
+      "Asymptomatic often",
+      "With chest pain",
+      "With severe headache"
+    ],
+    "recommended_actions": [
+      "Diet modification",
+      "Exercise",
+      "Stress reduction"
+    ],
+    "specialist_referral": "Cardiology for optimization",
+    "medications": [
+      "ACE inhibitors",
+      "Beta-blockers"
+    ],
+    "contraindications": [
+      "Monitor with kidney disease"
+    ],
+    "duration": "Chronic management"
+  },
+  {
+    "symptom": "Diabetes Symptoms",
+    "category": "endocrine",
+    "specialty": [
+      "Endocrinology",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "prediabetes",
+      "type2",
+      "type1"
+    ],
+    "urgency": "urgent if DKA",
+    "description": "Thirst/urination/weight loss",
+    "common_causes": [
+      "Genetics",
+      "Obesity",
+      "Age"
+    ],
+    "red_flags": [
+      "Fruity breath",
+      "Rapid breathing",
+      "Confusion"
+    ],
+    "recommended_actions": [
+      "Blood glucose monitoring",
+      "Diet management",
+      "Exercise"
+    ],
+    "specialist_referral": "Endocrinology",
+    "medications": [
+      "Metformin",
+      "Insulin",
+      "GLP-1"
+    ],
+    "contraindications": [
+      "Monitor renal function"
+    ],
+    "duration": "Chronic management"
+  },
+  {
+    "symptom": "Allergic Reaction",
+    "category": "immunological",
+    "specialty": [
+      "Allergy & Immunology",
+      "Emergency Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "emergency if anaphylaxis",
+    "description": "Immune response to allergen",
+    "common_causes": [
+      "Food",
+      "Medications",
+      "Environmental",
+      "Insect stings"
+    ],
+    "red_flags": [
+      "Difficulty breathing",
+      "Throat swelling",
+      "Hypotension"
+    ],
+    "recommended_actions": [
+      "Remove allergen",
+      "Antihistamines",
+      "Epinephrine"
+    ],
+    "specialist_referral": "Allergy specialist",
+    "medications": [
+      "Antihistamines",
+      "Epinephrine"
+    ],
+    "contraindications": [
+      "Identify triggers"
+    ],
+    "duration": "Minutes to hours"
+  },
+  {
+    "symptom": "Persistent Cough",
+    "category": "respiratory",
+    "specialty": [
+      "Pulmonology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless with hemoptysis",
+    "description": "Throat irritation/coughing",
+    "common_causes": [
+      "Allergies",
+      "Asthma",
+      "GERD",
+      "Post-nasal drip"
+    ],
+    "red_flags": [
+      "With blood in sputum",
+      "With weight loss",
+      ">3 weeks"
+    ],
+    "recommended_actions": [
+      "Hydration",
+      "Cough drops",
+      "Humidifier"
+    ],
+    "specialist_referral": "Pulmonology if >3 weeks",
+    "medications": [
+      "Cough suppressants",
+      "Antihistamines"
+    ],
+    "contraindications": [
+      "Avoid if productive/beneficial"
+    ],
+    "duration": "1-2 weeks"
+  },
+  {
+    "symptom": "Insomnia",
+    "category": "neurological",
+    "specialty": [
+      "Neurology",
+      "Psychiatry"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine",
+    "description": "Difficulty falling/staying asleep",
+    "common_causes": [
+      "Stress",
+      "Anxiety",
+      "Medications",
+      "Sleep apnea"
+    ],
+    "red_flags": [
+      "Severe daytime impairment",
+      "Mood changes"
+    ],
+    "recommended_actions": [
+      "Sleep hygiene",
+      "Relaxation",
+      "Avoid screens"
+    ],
+    "specialist_referral": "Sleep specialist if persistent",
+    "medications": [
+      "Melatonin",
+      "Sleep aids"
+    ],
+    "contraindications": [
+      "Avoid long-term benzodiazepines"
+    ],
+    "duration": "Depends on cause"
+  },
+  {
+    "symptom": "Constipation",
+    "category": "gastrointestinal",
+    "specialty": [
+      "Gastroenterology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless with severe pain",
+    "description": "Difficulty with bowel movements",
+    "common_causes": [
+      "Low fiber",
+      "Dehydration",
+      "Medications",
+      "Inactivity"
+    ],
+    "red_flags": [
+      "With severe pain",
+      "With blood",
+      "Acute change"
+    ],
+    "recommended_actions": [
+      "Fiber/fluids",
+      "Exercise",
+      "Probiotics"
+    ],
+    "specialist_referral": "GI if chronic",
+    "medications": [
+      "Stool softeners",
+      "Laxatives"
+    ],
+    "contraindications": [
+      "Avoid stimulant laxatives"
+    ],
+    "duration": "Days to weeks"
+  },
+  {
+    "symptom": "Diarrhea",
+    "category": "gastrointestinal",
+    "specialty": [
+      "Gastroenterology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if with severe dehydration",
+    "description": "Frequent loose stools",
+    "common_causes": [
+      "Viral infection",
+      "Bacteria",
+      "Food intolerance",
+      "IBS"
+    ],
+    "red_flags": [
+      "With fever/blood",
+      "Severe dehydration",
+      "Persistent"
+    ],
+    "recommended_actions": [
+      "Hydration",
+      "Clear liquids",
+      "Rest"
+    ],
+    "specialist_referral": "GI if persistent",
+    "medications": [
+      "Loperamide",
+      "Electrolyte replacement"
+    ],
+    "contraindications": [
+      "Avoid if infectious"
+    ],
+    "duration": "Days to weeks"
+  },
+  {
+    "symptom": "Muscle Weakness",
+    "category": "neurological",
+    "specialty": [
+      "Neurology",
+      "Physical Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "emergency if acute",
+    "description": "Loss of muscle strength",
+    "common_causes": [
+      "Deconditioning",
+      "Neurological",
+      "Muscular",
+      "Systemic"
+    ],
+    "red_flags": [
+      "Acute onset",
+      "With numbness",
+      "Progressive"
+    ],
+    "recommended_actions": [
+      "Physical therapy",
+      "Rest",
+      "Evaluation"
+    ],
+    "specialist_referral": "Neurology if acute",
+    "medications": [
+      "Physical therapy"
+    ],
+    "contraindications": [
+      "Activity modification"
+    ],
+    "duration": "Depends on cause"
+  },
+  {
+    "symptom": "Numbness/Tingling",
+    "category": "neurological",
+    "specialty": [
+      "Neurology",
+      "Physical Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if with weakness",
+    "description": "Abnormal sensations",
+    "common_causes": [
+      "Pinched nerve",
+      "Neuropathy",
+      "Carpal tunnel",
+      "MS"
+    ],
+    "red_flags": [
+      "With weakness",
+      "Rapidly spreading",
+      "Affecting face"
+    ],
+    "recommended_actions": [
+      "Rest affected area",
+      "Ice/heat",
+      "Ergonomic changes"
+    ],
+    "specialist_referral": "Neurology if persistent",
+    "medications": [
+      "NSAIDs",
+      "Topical agents"
+    ],
+    "contraindications": [
+      "Compression if applicable"
+    ],
+    "duration": "Depends on cause"
+  },
+  {
+    "symptom": "Hair Loss",
+    "category": "dermatological",
+    "specialty": [
+      "Dermatology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine",
+    "description": "Abnormal hair shedding",
+    "common_causes": [
+      "Stress",
+      "Thyroid",
+      "Nutritional",
+      "Genetics"
+    ],
+    "red_flags": [
+      "Rapid onset",
+      "With scalp pain",
+      "Scarring"
+    ],
+    "recommended_actions": [
+      "Stress reduction",
+      "Nutritional support",
+      "Gentle handling"
+    ],
+    "specialist_referral": "Dermatology if rapid",
+    "medications": [
+      "Minoxidil",
+      "Finasteride"
+    ],
+    "contraindications": [
+      "Pregnancy precautions"
+    ],
+    "duration": "Depends on cause"
+  },
+  {
+    "symptom": "Acne",
+    "category": "dermatological",
+    "specialty": [
+      "Dermatology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine",
+    "description": "Pimples/comedones on skin",
+    "common_causes": [
+      "Hormones",
+      "Bacteria",
+      "Inflammation",
+      "Genetics"
+    ],
+    "red_flags": [
+      "Severe inflammatory",
+      "With scarring"
+    ],
+    "recommended_actions": [
+      "Gentle cleansing",
+      "Topical treatments",
+      "Avoid picking"
+    ],
+    "specialist_referral": "Dermatology if severe",
+    "medications": [
+      "Benzoyl peroxide",
+      "Retinoids"
+    ],
+    "contraindications": [
+      "Pregnancy with certain meds"
+    ],
+    "duration": "Weeks to months"
+  },
+  {
+    "symptom": "Eczema/Dermatitis",
+    "category": "dermatological",
+    "specialty": [
+      "Dermatology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless infected",
+    "description": "Inflamed/itchy skin",
+    "common_causes": [
+      "Allergic contact",
+      "Irritant",
+      "Atopic",
+      "Stress"
+    ],
+    "red_flags": [
+      "Signs of infection",
+      "Spreading rapidly"
+    ],
+    "recommended_actions": [
+      "Moisturize frequently",
+      "Avoid irritants",
+      "Cool compresses"
+    ],
+    "specialist_referral": "Dermatology if severe",
+    "medications": [
+      "Topical corticosteroids"
+    ],
+    "contraindications": [
+      "Identify triggers"
+    ],
+    "duration": "Chronic management"
+  },
+  {
+    "symptom": "Psoriasis",
+    "category": "dermatological",
+    "specialty": [
+      "Dermatology",
+      "Rheumatology"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine",
+    "description": "Scaling/plaques on skin",
+    "common_causes": [
+      "Genetic",
+      "Autoimmune",
+      "Stress",
+      "Infections"
+    ],
+    "red_flags": [
+      "Arthritis symptoms",
+      "Severe impact"
+    ],
+    "recommended_actions": [
+      "Topical treatments",
+      "Phototherapy",
+      "Lifestyle"
+    ],
+    "specialist_referral": "Dermatology for management",
+    "medications": [
+      "Topical steroids",
+      "Biologics"
+    ],
+    "contraindications": [
+      "Medication interactions"
+    ],
+    "duration": "Chronic management"
+  },
+  {
+    "symptom": "Hemorrhoids",
+    "category": "gastrointestinal",
+    "specialty": [
+      "Gastroenterology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless with severe bleeding",
+    "description": "Swollen rectal veins",
+    "common_causes": [
+      "Constipation",
+      "Straining",
+      "Pregnancy",
+      "Portal HTN"
+    ],
+    "red_flags": [
+      "Severe pain",
+      "Heavy bleeding",
+      "With fever"
+    ],
+    "recommended_actions": [
+      "Fiber/fluids",
+      "Sitz baths",
+      "Topical treatments"
+    ],
+    "specialist_referral": "GI if persistent",
+    "medications": [
+      "Topical creams",
+      "Stool softeners"
+    ],
+    "contraindications": [
+      "Avoid straining"
+    ],
+    "duration": "Days to weeks"
+  },
+  {
+    "symptom": "Urinary Tract Infection",
+    "category": "urological",
+    "specialty": [
+      "Urology",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless with fever",
+    "description": "Infection in urinary system",
+    "common_causes": [
+      "Bacteria",
+      "Incomplete emptying",
+      "Urinary obstruction"
+    ],
+    "red_flags": [
+      "With fever/chills",
+      "With flank pain",
+      "With sepsis signs"
+    ],
+    "recommended_actions": [
+      "Hydration",
+      "Avoid irritants",
+      "Seek treatment"
+    ],
+    "specialist_referral": "Urology if recurrent",
+    "medications": [
+      "Antibiotics"
+    ],
+    "contraindications": [
+      "Avoid delays"
+    ],
+    "duration": "1-2 weeks with treatment"
+  },
+  {
+    "symptom": "Kidney Stones",
+    "category": "urological",
+    "specialty": [
+      "Urology",
+      "Emergency Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if with severe pain",
+    "description": "Mineral deposits in kidneys",
+    "common_causes": [
+      "Dehydration",
+      "High calcium",
+      "Gout",
+      "Genetics"
+    ],
+    "red_flags": [
+      "Severe flank pain",
+      "With fever",
+      "With hematuria"
+    ],
+    "recommended_actions": [
+      "Hydration",
+      "Pain management",
+      "Strain urine"
+    ],
+    "specialist_referral": "Urology if large",
+    "medications": [
+      "NSAIDs",
+      "Antiemetics"
+    ],
+    "contraindications": [
+      "Seek medical evaluation"
+    ],
+    "duration": "Days to weeks"
+  },
+  {
+    "symptom": "Incontinence",
+    "category": "urological",
+    "specialty": [
+      "Urology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine",
+    "description": "Involuntary urinary/fecal leakage",
+    "common_causes": [
+      "Pelvic floor weakness",
+      "Neurological",
+      "Obstruction",
+      "Medication"
+    ],
+    "red_flags": [
+      "Sudden change",
+      "With pain",
+      "Complete loss"
+    ],
+    "recommended_actions": [
+      "Pelvic floor exercises",
+      "Fluid management",
+      "Protective wear"
+    ],
+    "specialist_referral": "Urology/GI if impact",
+    "medications": [
+      "Anticholinergics"
+    ],
+    "contraindications": [
+      "Activity modification"
+    ],
+    "duration": "Chronic management"
+  },
+  {
+    "symptom": "Erectile Dysfunction",
+    "category": "urological",
+    "specialty": [
+      "Urology",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine",
+    "description": "Inability to achieve/maintain erection",
+    "common_causes": [
+      "Vascular",
+      "Neurological",
+      "Hormonal",
+      "Psychological"
+    ],
+    "red_flags": [
+      "Sudden onset",
+      "Associated with systemic symptoms"
+    ],
+    "recommended_actions": [
+      "Cardiovascular evaluation",
+      "Stress management"
+    ],
+    "specialist_referral": "Urology recommended",
+    "medications": [
+      "Phosphodiesterase inhibitors"
+    ],
+    "contraindications": [
+      "With nitrates"
+    ],
+    "duration": "Requires ongoing management"
+  },
+  {
+    "symptom": "Menstrual Cramps",
+    "category": "gynecological",
+    "specialty": [
+      "Gynecology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless severe",
+    "description": "Pain during menstruation",
+    "common_causes": [
+      "Prostaglandins",
+      "Endometriosis",
+      "Fibroids"
+    ],
+    "red_flags": [
+      "Severe debilitating pain",
+      "With fever",
+      "Breakthrough pain"
+    ],
+    "recommended_actions": [
+      "Heat",
+      "NSAIDs",
+      "Rest",
+      "Exercise"
+    ],
+    "specialist_referral": "Gynecology if severe",
+    "medications": [
+      "Ibuprofen",
+      "Naproxen"
+    ],
+    "contraindications": [
+      "Pregnancy consideration"
+    ],
+    "duration": "1-3 days"
+  },
+  {
+    "symptom": "Irregular Periods",
+    "category": "gynecological",
+    "specialty": [
+      "Gynecology",
+      "Endocrinology"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless heavy bleeding",
+    "description": "Abnormal menstrual cycle",
+    "common_causes": [
+      "PCOS",
+      "Thyroid",
+      "Stress",
+      "Birth control"
+    ],
+    "red_flags": [
+      "Excessive bleeding",
+      "Severe pain",
+      "Amenorrhea >3 months"
+    ],
+    "recommended_actions": [
+      "Cycle tracking",
+      "Stress management",
+      "Evaluation"
+    ],
+    "specialist_referral": "Gynecology for assessment",
+    "medications": [
+      "Hormonal contraceptives"
+    ],
+    "contraindications": [
+      "Identify underlying cause"
+    ],
+    "duration": "Depends on cause"
+  },
+  {
+    "symptom": "Hot Flashes",
+    "category": "endocrine",
+    "specialty": [
+      "Gynecology",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine",
+    "description": "Sudden feeling of intense heat",
+    "common_causes": [
+      "Menopause",
+      "Hyperthyroidism",
+      "Anxiety",
+      "Cancer drugs"
+    ],
+    "red_flags": [
+      "Severe night sweats",
+      "With weight loss"
+    ],
+    "recommended_actions": [
+      "Cool environment",
+      "Breathable clothing",
+      "Stress management"
+    ],
+    "specialist_referral": "Gynecology for management",
+    "medications": [
+      "Hormone therapy",
+      "SSRIs"
+    ],
+    "contraindications": [
+      "History of clots"
+    ],
+    "duration": "Years in menopause"
+  },
+  {
+    "symptom": "Osteoporosis",
+    "category": "musculoskeletal",
+    "specialty": [
+      "Orthopedics",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "osteopenia",
+      "osteoporosis",
+      "severe"
+    ],
+    "urgency": "routine",
+    "description": "Decreased bone mineral density",
+    "common_causes": [
+      "Age",
+      "Estrogen loss",
+      "Sedentary",
+      "Low calcium"
+    ],
+    "red_flags": [
+      "Pathologic fracture",
+      "Height loss"
+    ],
+    "recommended_actions": [
+      "Calcium/Vitamin D",
+      "Weight-bearing exercise",
+      "Fall prevention"
+    ],
+    "specialist_referral": "Endocrinology if severe",
+    "medications": [
+      "Bisphosphonates",
+      "Calcium"
+    ],
+    "contraindications": [
+      "Monitor GI with bisphosphonates"
+    ],
+    "duration": "Chronic management"
+  },
+  {
+    "symptom": "Gout",
+    "category": "musculoskeletal",
+    "specialty": [
+      "Rheumatology",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless acute attack",
+    "description": "Monosodium urate crystal arthritis",
+    "common_causes": [
+      "High purine diet",
+      "Dehydration",
+      "Genetics",
+      "Medications"
+    ],
+    "red_flags": [
+      "Acute attack with fever",
+      "Multiple joint involvement"
+    ],
+    "recommended_actions": [
+      "NSAIDs",
+      "Colchicine",
+      "Allopurinol",
+      "Avoid triggers"
+    ],
+    "specialist_referral": "Rheumatology if recurrent",
+    "medications": [
+      "Allopurinol",
+      "Febuxostat"
+    ],
+    "contraindications": [
+      "Avoid NSAIDs if renal disease"
+    ],
+    "duration": "Acute attack 1-2 weeks"
+  },
+  {
+    "symptom": "Lupus",
+    "category": "autoimmune",
+    "specialty": [
+      "Rheumatology",
+      "Dermatology"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine unless flare",
+    "description": "Systemic autoimmune disease",
+    "common_causes": [
+      "Genetic predisposition",
+      "Environmental triggers"
+    ],
+    "red_flags": [
+      "Photosensitive rash",
+      "Lupus nephritis",
+      "CNS involvement"
+    ],
+    "recommended_actions": [
+      "Sun protection",
+      "NSAIDs",
+      "Hydroxychloroquine"
+    ],
+    "specialist_referral": "Rheumatology mandatory",
+    "medications": [
+      "Hydroxychloroquine",
+      "Corticosteroids"
+    ],
+    "contraindications": [
+      "Live vaccines"
+    ],
+    "duration": "Lifelong management"
+  },
+  {
+    "symptom": "Fibromyalgia",
+    "category": "neurological",
+    "specialty": [
+      "Rheumatology",
+      "Neurology"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine",
+    "description": "Widespread musculoskeletal pain",
+    "common_causes": [
+      "Central sensitization",
+      "Stress",
+      "Sleep disturbance"
+    ],
+    "red_flags": [
+      "Severe functional impairment",
+      "With depression"
+    ],
+    "recommended_actions": [
+      "Exercise",
+      "Sleep hygiene",
+      "Stress management"
+    ],
+    "specialist_referral": "Rheumatology for diagnosis",
+    "medications": [
+      "Duloxetine",
+      "Pregabalin"
+    ],
+    "contraindications": [
+      "Opioid use problematic"
+    ],
+    "duration": "Chronic management"
+  },
+  {
+    "symptom": "Chronic Fatigue",
+    "category": "general",
+    "specialty": [
+      "Internal Medicine",
+      "Neurology"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "routine",
+    "description": "Persistent exhaustion",
+    "common_causes": [
+      "Viral post-infection",
+      "Depression",
+      "Thyroid",
+      "Sleep disorder"
+    ],
+    "red_flags": [
+      "Severe functional impairment",
+      "With fever"
+    ],
+    "recommended_actions": [
+      "Pacing",
+      "Sleep optimization",
+      "Gradual activity"
+    ],
+    "specialist_referral": "Internal Medicine for workup",
+    "medications": [
+      "Address underlying cause"
+    ],
+    "contraindications": [
+      "Avoid excessive activity"
+    ],
+    "duration": "Months to years"
+  },
+  {
+    "symptom": "Palpitations",
+    "category": "cardiac",
+    "specialty": [
+      "Cardiology",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if with chest pain",
+    "description": "Awareness of heart beating",
+    "common_causes": [
+      "Arrhythmia",
+      "Anxiety",
+      "Caffeine",
+      "Thyroid"
+    ],
+    "red_flags": [
+      "With chest pain",
+      "With syncope",
+      "With SOB"
+    ],
+    "recommended_actions": [
+      "Monitor symptoms",
+      "Reduce caffeine",
+      "Stress management"
+    ],
+    "specialist_referral": "Cardiology if frequent",
+    "medications": [
+      "Beta-blockers",
+      "Antiarrhythmics"
+    ],
+    "contraindications": [
+      "Avoid triggers"
+    ],
+    "duration": "Depends on cause"
+  },
+  {
+    "symptom": "Asthma",
+    "category": "respiratory",
+    "specialty": [
+      "Pulmonology",
+      "General Practice"
+    ],
+    "severity_levels": [
+      "intermittent",
+      "persistent mild",
+      "persistent moderate"
+    ],
+    "urgency": "emergency if acute attack",
+    "description": "Reversible airway obstruction",
+    "common_causes": [
+      "Allergies",
+      "Exercise",
+      "Infections",
+      "Environmental"
+    ],
+    "red_flags": [
+      "Acute attack",
+      "Status asthmaticus",
+      "Low oxygen"
+    ],
+    "recommended_actions": [
+      "Rescue inhaler",
+      "Avoid triggers",
+      "Controller meds"
+    ],
+    "specialist_referral": "Pulmonology if not controlled",
+    "medications": [
+      "Beta-2 agonists",
+      "Corticosteroids"
+    ],
+    "contraindications": [
+      "Trigger avoidance"
+    ],
+    "duration": "Lifelong management"
+  },
+  {
+    "symptom": "COPD",
+    "category": "respiratory",
+    "specialty": [
+      "Pulmonology",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "emergency if exacerbation",
+    "description": "Obstructive airway disease",
+    "common_causes": [
+      "Smoking",
+      "Occupational",
+      "Genetics",
+      "Alpha-1"
+    ],
+    "red_flags": [
+      "Acute exacerbation",
+      "Respiratory failure",
+      "Cor pulmonale"
+    ],
+    "recommended_actions": [
+      "Smoking cessation",
+      "Oxygen therapy",
+      "Inhalers"
+    ],
+    "specialist_referral": "Pulmonology for management",
+    "medications": [
+      "Bronchodilators",
+      "Corticosteroids"
+    ],
+    "contraindications": [
+      "Smoking continuation"
+    ],
+    "duration": "Lifelong management"
+  },
+  {
+    "symptom": "Pneumonia",
+    "category": "respiratory",
+    "specialty": [
+      "Pulmonology",
+      "Emergency Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent",
+    "description": "Lung parenchyma infection",
+    "common_causes": [
+      "Bacterial",
+      "Viral",
+      "Fungal",
+      "Aspiration"
+    ],
+    "red_flags": [
+      "Severe dyspnea",
+      "Hypoxia",
+      "Sepsis"
+    ],
+    "recommended_actions": [
+      "Antibiotics",
+      "Oxygen",
+      "Supportive care"
+    ],
+    "specialist_referral": "Hospital admission if severe",
+    "medications": [
+      "Antibiotics"
+    ],
+    "contraindications": [
+      "Immediate treatment needed"
+    ],
+    "duration": "1-2 weeks with treatment"
+  },
+  {
+    "symptom": "Thyroid Disease",
+    "category": "endocrine",
+    "specialty": [
+      "Endocrinology",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "hypothyroid",
+      "hyperthyroid",
+      "thyroiditis"
+    ],
+    "urgency": "routine unless thyroid storm",
+    "description": "Thyroid dysfunction",
+    "common_causes": [
+      "Autoimmune",
+      "Iodine deficiency",
+      "Radiation"
+    ],
+    "red_flags": [
+      "Thyroid storm",
+      "Myxedema coma"
+    ],
+    "recommended_actions": [
+      "TSH monitoring",
+      "Medication compliance"
+    ],
+    "specialist_referral": "Endocrinology",
+    "medications": [
+      "Levothyroxine",
+      "PTU"
+    ],
+    "contraindications": [
+      "Medication interactions"
+    ],
+    "duration": "Lifelong management"
+  },
+  {
+    "symptom": "Adrenal Insufficiency",
+    "category": "endocrine",
+    "specialty": [
+      "Endocrinology",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "acute crisis"
+    ],
+    "urgency": "emergency if crisis",
+    "description": "Inadequate cortisol production",
+    "common_causes": [
+      "Autoimmune",
+      "TB",
+      "Medications",
+      "Pituitary"
+    ],
+    "red_flags": [
+      "Adrenal crisis",
+      "Hypotension",
+      "Hypoglycemia"
+    ],
+    "recommended_actions": [
+      "Cortisol replacement",
+      "Mineralocorticoid"
+    ],
+    "specialist_referral": "Endocrinology mandatory",
+    "medications": [
+      "Hydrocortisone",
+      "Fludrocortisone"
+    ],
+    "contraindications": [
+      "Medical alert"
+    ],
+    "duration": "Lifelong management"
+  },
+  {
+    "symptom": "Anemia",
+    "category": "hematological",
+    "specialty": [
+      "Internal Medicine",
+      "Hematology"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if severe",
+    "description": "Low hemoglobin/RBCs",
+    "common_causes": [
+      "Iron deficiency",
+      "B12 deficiency",
+      "Chronic disease",
+      "Hemolysis"
+    ],
+    "red_flags": [
+      "Severe dyspnea",
+      "Chest pain",
+      "Syncope"
+    ],
+    "recommended_actions": [
+      "Iron supplementation",
+      "B12 injections",
+      "Transfusion"
+    ],
+    "specialist_referral": "Hematology if refractory",
+    "medications": [
+      "Iron supplements",
+      "B12"
+    ],
+    "contraindications": [
+      "Address root cause"
+    ],
+    "duration": "Weeks to months"
+  },
+  {
+    "symptom": "Bleeding Disorder",
+    "category": "hematological",
+    "specialty": [
+      "Hematology",
+      "Internal Medicine"
+    ],
+    "severity_levels": [
+      "mild",
+      "moderate",
+      "severe"
+    ],
+    "urgency": "urgent if active bleeding",
+    "description": "Impaired clotting",
+    "common_causes": [
+      "Thrombocytopenia",
+      "Coagulopathy",
+      "Medications"
+    ],
+    "red_flags": [
+      "Spontaneous bleeding",
+      "Hematuria",
+      "Hemoptysis"
+    ],
+    "recommended_actions": [
+      "Avoid NSAIDs",
+      "Transfusion if needed"
+    ],
+    "specialist_referral": "Hematology",
+    "medications": [
+      "Hemostatic agents"
+    ],
+    "contraindications": [
+      "Anticoagulant avoidance"
+    ],
+    "duration": "Chronic management"
+  },
+  {
+    "symptom": "Hepatitis",
+    "category": "gastrointestinal",
+    "specialty": [
+      "Gastroenterology",
+      "Hepatology"
+    ],
+    "severity_levels": [
+      "acute",
+      "chronic mild",
+      "severe"
+    ],
+    "urgency": "urgent if fulminant",
+    "description": "Liver inflammation",
+    "common_causes": [
+      "Viral",
+      "Autoimmune",
+      "Alcohol",
+      "Drug"
+    ],
+    "red_flags": [
+      "Jaundice",
+      "Coagulopathy",
+      "Encephalopathy"
+    ],
+    "recommended_actions": [
+      "Viral serology",
+      "Liver function tests"
+    ],
+    "specialist_referral": "Hepatology consultation",
+    "medications": [
+      "Antivirals",
+      "Immunosuppressants"
+    ],
+    "contraindications": [
+      "Alcohol avoidance"
+    ],
+    "duration": "Depends on etiology"
+  },
+  {
+    "symptom": "Cirrhosis",
+    "category": "gastrointestinal",
+    "specialty": [
+      "Hepatology",
+      "Gastroenterology"
+    ],
+    "severity_levels": [
+      "compensated",
+      "decompensated",
+      "end-stage"
+    ],
+    "urgency": "routine unless bleeding",
+    "description": "Advanced liver fibrosis",
+    "common_causes": [
+      "Alcohol",
+      "Hepatitis",
+      "NAFLD",
+      "Autoimmune"
+    ],
+    "red_flags": [
+      "Portal hypertension",
+      "Ascites",
+      "Variceal bleeding"
+    ],
+    "recommended_actions": [
+      "Alcohol cessation",
+      "Screening endoscopy"
+    ],
+    "specialist_referral": "Hepatology mandatory",
+    "medications": [
+      "Beta-blockers",
+      "Diuretics"
+    ],
+    "contraindications": [
+      "Liver transplant evaluation"
+    ],
+    "duration": "Progressive disease"
+  },
+  {
+    "symptom": "Sepsis",
+    "category": "systemic",
+    "specialty": [
+      "Emergency Medicine",
+      "Critical Care"
+    ],
+    "severity_levels": [
+      "sepsis",
+      "severe sepsis",
+      "septic shock"
+    ],
+    "urgency": "emergency",
+    "description": "Systemic inflammatory response to infection",
+    "common_causes": [
+      "Bacteria",
+      "Viruses",
+      "Fungi",
+      "Any infection"
+    ],
+    "red_flags": [
+      "Fever/hypothermia",
+      "Tachycardia",
+      "Hypotension",
+      "Organ dysfunction"
+    ],
+    "recommended_actions": [
+      "ICU admission",
+      "Fluid resuscitation",
+      "Antibiotics"
+    ],
+    "specialist_referral": "ICU/Critical care",
+    "medications": [
+      "Broad-spectrum antibiotics"
+    ],
+    "contraindications": [
+      "Time-sensitive"
+    ],
+    "duration": "Acute management"
+  },
+  {
+    "symptom": "Shock",
+    "category": "systemic",
+    "specialty": [
+      "Emergency Medicine",
+      "Critical Care"
+    ],
+    "severity_levels": [
+      "compensated",
+      "decompensated",
+      "irreversible"
+    ],
+    "urgency": "emergency",
+    "description": "Inadequate tissue perfusion",
+    "common_causes": [
+      "Septic",
+      "Cardiogenic",
+      "Hypovolemic",
+      "Anaphylactic"
+    ],
+    "red_flags": [
+      "Hypotension",
+      "Altered mental status",
+      "Organ failure"
+    ],
+    "recommended_actions": [
+      "ICU admission",
+      "Fluid resuscitation",
+      "Vasopressors"
+    ],
+    "specialist_referral": "ICU/Critical care",
+    "medications": [
+      "Vasopressors",
+      "Inotropes"
+    ],
+    "contraindications": [
+      "Resuscitation essential"
+    ],
+    "duration": "Acute crisis"
+  },
+  {
+    "condition": "Migraine Headache",
+    "symptoms": [
+      "severe headache",
+      "nausea",
+      "sensitivity to light",
+      "visual disturbances"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Migraine Headache is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Tension Headache",
+    "symptoms": [
+      "dull head pain",
+      "tight band feeling",
+      "neck tension",
+      "stress"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "General Practice",
+    "additional_info": "Tension Headache is a medical condition that requires consultation with General Practice."
+  },
+  {
+    "condition": "Seasonal Allergies",
+    "symptoms": [
+      "sneezing",
+      "runny nose",
+      "itchy eyes",
+      "nasal congestion"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Allergy & Immunology",
+    "additional_info": "Seasonal Allergies is a medical condition that requires consultation with Allergy & Immunology."
+  },
+  {
+    "condition": "Food Poisoning",
+    "symptoms": [
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "stomach cramps",
+      "fever"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Gastroenterology",
+    "additional_info": "Food Poisoning is a medical condition that requires consultation with Gastroenterology."
+  },
+  {
+    "condition": "Urinary Tract Infection",
+    "symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pelvic pain"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Urology",
+    "additional_info": "Urinary Tract Infection is a medical condition that requires consultation with Urology."
+  },
+  {
+    "condition": "Conjunctivitis",
+    "symptoms": [
+      "red eyes",
+      "eye discharge",
+      "itchy eyes",
+      "watery eyes"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Ophthalmology",
+    "additional_info": "Conjunctivitis is a medical condition that requires consultation with Ophthalmology."
+  },
+  {
+    "condition": "Sinusitis",
+    "symptoms": [
+      "facial pain",
+      "nasal congestion",
+      "thick nasal discharge",
+      "headache"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "ENT",
+    "additional_info": "Sinusitis is a medical condition that requires consultation with ENT."
+  },
+  {
+    "condition": "Bronchitis",
+    "symptoms": [
+      "persistent cough",
+      "mucus production",
+      "chest discomfort",
+      "fatigue"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Pulmonology",
+    "additional_info": "Bronchitis is a medical condition that requires consultation with Pulmonology."
+  },
+  {
+    "condition": "Pneumonia",
+    "symptoms": [
+      "fever",
+      "cough",
+      "chest pain",
+      "difficulty breathing",
+      "fatigue"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Pulmonology",
+    "additional_info": "Pneumonia is a medical condition that requires consultation with Pulmonology."
+  },
+  {
+    "condition": "Cellulitis",
+    "symptoms": [
+      "skin redness",
+      "swelling",
+      "warmth",
+      "pain",
+      "fever"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Cellulitis is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Eczema",
+    "symptoms": [
+      "itchy skin",
+      "red patches",
+      "dry skin",
+      "skin inflammation"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Eczema is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Psoriasis",
+    "symptoms": [
+      "scaly patches",
+      "dry cracked skin",
+      "itching",
+      "burning"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Psoriasis is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Gout",
+    "symptoms": [
+      "joint pain",
+      "swelling",
+      "redness",
+      "big toe pain"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Rheumatology",
+    "additional_info": "Gout is a medical condition that requires consultation with Rheumatology."
+  },
+  {
+    "condition": "Osteoarthritis",
+    "symptoms": [
+      "joint pain",
+      "stiffness",
+      "reduced mobility",
+      "swelling"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Orthopedics",
+    "additional_info": "Osteoarthritis is a medical condition that requires consultation with Orthopedics."
+  },
+  {
+    "condition": "Rheumatoid Arthritis",
+    "symptoms": [
+      "joint pain",
+      "morning stiffness",
+      "fatigue",
+      "fever"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Rheumatology",
+    "additional_info": "Rheumatoid Arthritis is a medical condition that requires consultation with Rheumatology."
+  },
+  {
+    "condition": "Tendonitis",
+    "symptoms": [
+      "joint pain",
+      "swelling",
+      "limited movement",
+      "tenderness"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Sports Medicine",
+    "additional_info": "Tendonitis is a medical condition that requires consultation with Sports Medicine."
+  },
+  {
+    "condition": "Sprain",
+    "symptoms": [
+      "pain",
+      "swelling",
+      "bruising",
+      "limited movement"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Orthopedics",
+    "additional_info": "Sprain is a medical condition that requires consultation with Orthopedics."
+  },
+  {
+    "condition": "Fracture",
+    "symptoms": [
+      "severe pain",
+      "swelling",
+      "deformity",
+      "inability to move"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Orthopedics",
+    "additional_info": "Fracture is a medical condition that requires consultation with Orthopedics."
+  },
+  {
+    "condition": "Concussion",
+    "symptoms": [
+      "headache",
+      "confusion",
+      "dizziness",
+      "nausea",
+      "memory problems"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Concussion is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Vertigo",
+    "symptoms": [
+      "dizziness",
+      "spinning sensation",
+      "nausea",
+      "balance problems"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Vertigo is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Bell's Palsy",
+    "symptoms": [
+      "facial weakness",
+      "drooping",
+      "difficulty closing eye",
+      "drooling"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Bell's Palsy is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Carpal Tunnel Syndrome",
+    "symptoms": [
+      "hand numbness",
+      "tingling",
+      "weakness",
+      "wrist pain"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Orthopedics",
+    "additional_info": "Carpal Tunnel Syndrome is a medical condition that requires consultation with Orthopedics."
+  },
+  {
+    "condition": "Sciatica",
+    "symptoms": [
+      "lower back pain",
+      "leg pain",
+      "numbness",
+      "tingling"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Sciatica is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Herniated Disc",
+    "symptoms": [
+      "back pain",
+      "leg pain",
+      "numbness",
+      "weakness"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Orthopedics",
+    "additional_info": "Herniated Disc is a medical condition that requires consultation with Orthopedics."
+  },
+  {
+    "condition": "Kidney Stones",
+    "symptoms": [
+      "severe pain",
+      "blood in urine",
+      "nausea",
+      "frequent urination"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Urology",
+    "additional_info": "Kidney Stones is a medical condition that requires consultation with Urology."
+  },
+  {
+    "condition": "Gallstones",
+    "symptoms": [
+      "abdominal pain",
+      "nausea",
+      "vomiting",
+      "jaundice"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Gastroenterology",
+    "additional_info": "Gallstones is a medical condition that requires consultation with Gastroenterology."
+  },
+  {
+    "condition": "GERD",
+    "symptoms": [
+      "heartburn",
+      "acid reflux",
+      "chest pain",
+      "difficulty swallowing"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Gastroenterology",
+    "additional_info": "GERD is a medical condition that requires consultation with Gastroenterology."
+  },
+  {
+    "condition": "Peptic Ulcer",
+    "symptoms": [
+      "stomach pain",
+      "bloating",
+      "nausea",
+      "black stools"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Gastroenterology",
+    "additional_info": "Peptic Ulcer is a medical condition that requires consultation with Gastroenterology."
+  },
+  {
+    "condition": "Irritable Bowel Syndrome",
+    "symptoms": [
+      "abdominal pain",
+      "bloating",
+      "diarrhea",
+      "constipation"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Gastroenterology",
+    "additional_info": "Irritable Bowel Syndrome is a medical condition that requires consultation with Gastroenterology."
+  },
+  {
+    "condition": "Crohn's Disease",
+    "symptoms": [
+      "abdominal pain",
+      "diarrhea",
+      "weight loss",
+      "fatigue"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Gastroenterology",
+    "additional_info": "Crohn's Disease is a medical condition that requires consultation with Gastroenterology."
+  },
+  {
+    "condition": "Ulcerative Colitis",
+    "symptoms": [
+      "bloody diarrhea",
+      "abdominal pain",
+      "urgency",
+      "weight loss"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Gastroenterology",
+    "additional_info": "Ulcerative Colitis is a medical condition that requires consultation with Gastroenterology."
+  },
+  {
+    "condition": "Hypothyroidism",
+    "symptoms": [
+      "fatigue",
+      "weight gain",
+      "cold sensitivity",
+      "dry skin"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Endocrinology",
+    "additional_info": "Hypothyroidism is a medical condition that requires consultation with Endocrinology."
+  },
+  {
+    "condition": "Hyperthyroidism",
+    "symptoms": [
+      "weight loss",
+      "rapid heartbeat",
+      "anxiety",
+      "tremors"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Endocrinology",
+    "additional_info": "Hyperthyroidism is a medical condition that requires consultation with Endocrinology."
+  },
+  {
+    "condition": "Type 2 Diabetes",
+    "symptoms": [
+      "increased thirst",
+      "frequent urination",
+      "fatigue",
+      "blurred vision"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Endocrinology",
+    "additional_info": "Type 2 Diabetes is a medical condition that requires consultation with Endocrinology."
+  },
+  {
+    "condition": "Anemia",
+    "symptoms": [
+      "fatigue",
+      "weakness",
+      "pale skin",
+      "shortness of breath"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Hematology",
+    "additional_info": "Anemia is a medical condition that requires consultation with Hematology."
+  },
+  {
+    "condition": "Deep Vein Thrombosis",
+    "symptoms": [
+      "leg swelling",
+      "pain",
+      "warmth",
+      "redness"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Hematology",
+    "additional_info": "Deep Vein Thrombosis is a medical condition that requires consultation with Hematology."
+  },
+  {
+    "condition": "Varicose Veins",
+    "symptoms": [
+      "visible veins",
+      "leg pain",
+      "swelling",
+      "heaviness"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Cardiology",
+    "additional_info": "Varicose Veins is a medical condition that requires consultation with Cardiology."
+  },
+  {
+    "condition": "Atrial Fibrillation",
+    "symptoms": [
+      "irregular heartbeat",
+      "palpitations",
+      "fatigue",
+      "dizziness"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Cardiology",
+    "additional_info": "Atrial Fibrillation is a medical condition that requires consultation with Cardiology."
+  },
+  {
+    "condition": "Heart Failure",
+    "symptoms": [
+      "shortness of breath",
+      "fatigue",
+      "swelling",
+      "rapid heartbeat"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Cardiology",
+    "additional_info": "Heart Failure is a medical condition that requires consultation with Cardiology."
+  },
+  {
+    "condition": "Angina",
+    "symptoms": [
+      "chest pain",
+      "pressure",
+      "shortness of breath",
+      "fatigue"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Cardiology",
+    "additional_info": "Angina is a medical condition that requires consultation with Cardiology."
+  },
+  {
+    "condition": "Peripheral Artery Disease",
+    "symptoms": [
+      "leg pain",
+      "cramping",
+      "numbness",
+      "coldness"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Cardiology",
+    "additional_info": "Peripheral Artery Disease is a medical condition that requires consultation with Cardiology."
+  },
+  {
+    "condition": "Sleep Apnea",
+    "symptoms": [
+      "snoring",
+      "gasping",
+      "daytime fatigue",
+      "morning headache"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Sleep Medicine",
+    "additional_info": "Sleep Apnea is a medical condition that requires consultation with Sleep Medicine."
+  },
+  {
+    "condition": "Insomnia",
+    "symptoms": [
+      "difficulty sleeping",
+      "staying awake",
+      "fatigue",
+      "irritability"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Sleep Medicine",
+    "additional_info": "Insomnia is a medical condition that requires consultation with Sleep Medicine."
+  },
+  {
+    "condition": "Restless Leg Syndrome",
+    "symptoms": [
+      "leg discomfort",
+      "urge to move",
+      "worse at night"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Restless Leg Syndrome is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Fibromyalgia",
+    "symptoms": [
+      "widespread pain",
+      "fatigue",
+      "sleep problems",
+      "cognitive issues"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Rheumatology",
+    "additional_info": "Fibromyalgia is a medical condition that requires consultation with Rheumatology."
+  },
+  {
+    "condition": "Chronic Fatigue Syndrome",
+    "symptoms": [
+      "severe fatigue",
+      "sleep problems",
+      "muscle pain",
+      "headaches"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Internal Medicine",
+    "additional_info": "Chronic Fatigue Syndrome is a medical condition that requires consultation with Internal Medicine."
+  },
+  {
+    "condition": "Mononucleosis",
+    "symptoms": [
+      "fatigue",
+      "sore throat",
+      "fever",
+      "swollen lymph nodes"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Infectious Disease",
+    "additional_info": "Mononucleosis is a medical condition that requires consultation with Infectious Disease."
+  },
+  {
+    "condition": "Strep Throat",
+    "symptoms": [
+      "severe sore throat",
+      "fever",
+      "swollen nodes",
+      "white patches"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "ENT",
+    "additional_info": "Strep Throat is a medical condition that requires consultation with ENT."
+  },
+  {
+    "condition": "Tonsillitis",
+    "symptoms": [
+      "sore throat",
+      "difficulty swallowing",
+      "fever",
+      "swollen tonsils"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "ENT",
+    "additional_info": "Tonsillitis is a medical condition that requires consultation with ENT."
+  },
+  {
+    "condition": "Laryngitis",
+    "symptoms": [
+      "hoarse voice",
+      "throat pain",
+      "cough",
+      "difficulty speaking"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "ENT",
+    "additional_info": "Laryngitis is a medical condition that requires consultation with ENT."
+  },
+  {
+    "condition": "Ear Infection",
+    "symptoms": [
+      "ear pain",
+      "drainage",
+      "hearing loss",
+      "fever"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "ENT",
+    "additional_info": "Ear Infection is a medical condition that requires consultation with ENT."
+  },
+  {
+    "condition": "Meniere's Disease",
+    "symptoms": [
+      "vertigo",
+      "hearing loss",
+      "tinnitus",
+      "ear fullness"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "ENT",
+    "additional_info": "Meniere's Disease is a medical condition that requires consultation with ENT."
+  },
+  {
+    "condition": "Tinnitus",
+    "symptoms": [
+      "ringing in ears",
+      "buzzing",
+      "hearing difficulties"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "ENT",
+    "additional_info": "Tinnitus is a medical condition that requires consultation with ENT."
+  },
+  {
+    "condition": "Glaucoma",
+    "symptoms": [
+      "vision loss",
+      "eye pain",
+      "halos",
+      "redness"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Ophthalmology",
+    "additional_info": "Glaucoma is a medical condition that requires consultation with Ophthalmology."
+  },
+  {
+    "condition": "Cataracts",
+    "symptoms": [
+      "blurry vision",
+      "glare sensitivity",
+      "faded colors",
+      "poor night vision"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Ophthalmology",
+    "additional_info": "Cataracts is a medical condition that requires consultation with Ophthalmology."
+  },
+  {
+    "condition": "Macular Degeneration",
+    "symptoms": [
+      "blurred vision",
+      "dark spots",
+      "distorted vision"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Ophthalmology",
+    "additional_info": "Macular Degeneration is a medical condition that requires consultation with Ophthalmology."
+  },
+  {
+    "condition": "Dry Eye Syndrome",
+    "symptoms": [
+      "eye dryness",
+      "burning",
+      "redness",
+      "blurred vision"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Ophthalmology",
+    "additional_info": "Dry Eye Syndrome is a medical condition that requires consultation with Ophthalmology."
+  },
+  {
+    "condition": "Stye",
+    "symptoms": [
+      "eyelid swelling",
+      "pain",
+      "redness",
+      "tearing"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Ophthalmology",
+    "additional_info": "Stye is a medical condition that requires consultation with Ophthalmology."
+  },
+  {
+    "condition": "Depression",
+    "symptoms": [
+      "sadness",
+      "loss of interest",
+      "fatigue",
+      "sleep changes"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Psychiatry",
+    "additional_info": "Depression is a medical condition that requires consultation with Psychiatry."
+  },
+  {
+    "condition": "Anxiety Disorder",
+    "symptoms": [
+      "excessive worry",
+      "restlessness",
+      "tension",
+      "panic"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Psychiatry",
+    "additional_info": "Anxiety Disorder is a medical condition that requires consultation with Psychiatry."
+  },
+  {
+    "condition": "Panic Disorder",
+    "symptoms": [
+      "panic attacks",
+      "rapid heartbeat",
+      "sweating",
+      "trembling"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Psychiatry",
+    "additional_info": "Panic Disorder is a medical condition that requires consultation with Psychiatry."
+  },
+  {
+    "condition": "PTSD",
+    "symptoms": [
+      "flashbacks",
+      "nightmares",
+      "anxiety",
+      "avoidance"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Psychiatry",
+    "additional_info": "PTSD is a medical condition that requires consultation with Psychiatry."
+  },
+  {
+    "condition": "OCD",
+    "symptoms": [
+      "obsessive thoughts",
+      "compulsive behaviors",
+      "anxiety"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Psychiatry",
+    "additional_info": "OCD is a medical condition that requires consultation with Psychiatry."
+  },
+  {
+    "condition": "ADHD",
+    "symptoms": [
+      "inattention",
+      "hyperactivity",
+      "impulsivity",
+      "disorganization"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Psychiatry",
+    "additional_info": "ADHD is a medical condition that requires consultation with Psychiatry."
+  },
+  {
+    "condition": "Bipolar Disorder",
+    "symptoms": [
+      "mood swings",
+      "mania",
+      "depression",
+      "energy changes"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Psychiatry",
+    "additional_info": "Bipolar Disorder is a medical condition that requires consultation with Psychiatry."
+  },
+  {
+    "condition": "Schizophrenia",
+    "symptoms": [
+      "hallucinations",
+      "delusions",
+      "disorganized thinking"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Psychiatry",
+    "additional_info": "Schizophrenia is a medical condition that requires consultation with Psychiatry."
+  },
+  {
+    "condition": "Eating Disorder",
+    "symptoms": [
+      "abnormal eating",
+      "weight concerns",
+      "body image issues"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Psychiatry",
+    "additional_info": "Eating Disorder is a medical condition that requires consultation with Psychiatry."
+  },
+  {
+    "condition": "Substance Abuse",
+    "symptoms": [
+      "dependence",
+      "withdrawal",
+      "cravings",
+      "tolerance"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Psychiatry",
+    "additional_info": "Substance Abuse is a medical condition that requires consultation with Psychiatry."
+  },
+  {
+    "condition": "Autism Spectrum Disorder",
+    "symptoms": [
+      "social difficulties",
+      "communication challenges",
+      "repetitive behaviors"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Pediatrics",
+    "additional_info": "Autism Spectrum Disorder is a medical condition that requires consultation with Pediatrics."
+  },
+  {
+    "condition": "Cerebral Palsy",
+    "symptoms": [
+      "movement disorders",
+      "muscle stiffness",
+      "coordination problems"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Pediatrics",
+    "additional_info": "Cerebral Palsy is a medical condition that requires consultation with Pediatrics."
+  },
+  {
+    "condition": "Down Syndrome",
+    "symptoms": [
+      "developmental delays",
+      "distinctive features",
+      "intellectual disability"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Pediatrics",
+    "additional_info": "Down Syndrome is a medical condition that requires consultation with Pediatrics."
+  },
+  {
+    "condition": "Cystic Fibrosis",
+    "symptoms": [
+      "persistent cough",
+      "lung infections",
+      "digestive problems"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Pulmonology",
+    "additional_info": "Cystic Fibrosis is a medical condition that requires consultation with Pulmonology."
+  },
+  {
+    "condition": "Muscular Dystrophy",
+    "symptoms": [
+      "muscle weakness",
+      "progressive disability",
+      "fatigue"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Muscular Dystrophy is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "symptoms": [
+      "numbness",
+      "weakness",
+      "vision problems",
+      "fatigue"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Multiple Sclerosis is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Parkinson's Disease",
+    "symptoms": [
+      "tremors",
+      "stiffness",
+      "slow movement",
+      "balance problems"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Parkinson's Disease is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Alzheimer's Disease",
+    "symptoms": [
+      "memory loss",
+      "confusion",
+      "personality changes"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Alzheimer's Disease is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Epilepsy",
+    "symptoms": [
+      "seizures",
+      "loss of consciousness",
+      "confusion"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Epilepsy is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Meningitis",
+    "symptoms": [
+      "severe headache",
+      "stiff neck",
+      "fever",
+      "confusion"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Emergency Medicine",
+    "additional_info": "Meningitis is a medical condition that requires consultation with Emergency Medicine."
+  },
+  {
+    "condition": "Encephalitis",
+    "symptoms": [
+      "headache",
+      "fever",
+      "confusion",
+      "seizures"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Encephalitis is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Sepsis",
+    "symptoms": [
+      "fever",
+      "rapid heartbeat",
+      "confusion",
+      "extreme pain"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Emergency Medicine",
+    "additional_info": "Sepsis is a medical condition that requires consultation with Emergency Medicine."
+  },
+  {
+    "condition": "Anaphylaxis",
+    "symptoms": [
+      "difficulty breathing",
+      "swelling",
+      "rash",
+      "rapid pulse"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Allergy & Immunology",
+    "additional_info": "Anaphylaxis is a medical condition that requires consultation with Allergy & Immunology."
+  },
+  {
+    "condition": "Pulmonary Embolism",
+    "symptoms": [
+      "shortness of breath",
+      "chest pain",
+      "cough",
+      "rapid heartbeat"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Pulmonology",
+    "additional_info": "Pulmonary Embolism is a medical condition that requires consultation with Pulmonology."
+  },
+  {
+    "condition": "Aortic Aneurysm",
+    "symptoms": [
+      "chest pain",
+      "back pain",
+      "pulsating feeling"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Cardiology",
+    "additional_info": "Aortic Aneurysm is a medical condition that requires consultation with Cardiology."
+  },
+  {
+    "condition": "Diabetic Ketoacidosis",
+    "symptoms": [
+      "extreme thirst",
+      "frequent urination",
+      "nausea",
+      "confusion"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Endocrinology",
+    "additional_info": "Diabetic Ketoacidosis is a medical condition that requires consultation with Endocrinology."
+  },
+  {
+    "condition": "Hypoglycemia",
+    "symptoms": [
+      "shakiness",
+      "sweating",
+      "confusion",
+      "rapid heartbeat"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Endocrinology",
+    "additional_info": "Hypoglycemia is a medical condition that requires consultation with Endocrinology."
+  },
+  {
+    "condition": "Adrenal Insufficiency",
+    "symptoms": [
+      "fatigue",
+      "weakness",
+      "weight loss",
+      "low blood pressure"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Endocrinology",
+    "additional_info": "Adrenal Insufficiency is a medical condition that requires consultation with Endocrinology."
+  },
+  {
+    "condition": "Cushing's Syndrome",
+    "symptoms": [
+      "weight gain",
+      "round face",
+      "high blood pressure",
+      "weakness"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Endocrinology",
+    "additional_info": "Cushing's Syndrome is a medical condition that requires consultation with Endocrinology."
+  },
+  {
+    "condition": "Polycystic Ovary Syndrome",
+    "symptoms": [
+      "irregular periods",
+      "excess hair",
+      "acne",
+      "weight gain"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Gynecology",
+    "additional_info": "Polycystic Ovary Syndrome is a medical condition that requires consultation with Gynecology."
+  },
+  {
+    "condition": "Endometriosis",
+    "symptoms": [
+      "pelvic pain",
+      "painful periods",
+      "infertility",
+      "heavy bleeding"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Gynecology",
+    "additional_info": "Endometriosis is a medical condition that requires consultation with Gynecology."
+  },
+  {
+    "condition": "Uterine Fibroids",
+    "symptoms": [
+      "heavy bleeding",
+      "pelvic pressure",
+      "frequent urination"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Gynecology",
+    "additional_info": "Uterine Fibroids is a medical condition that requires consultation with Gynecology."
+  },
+  {
+    "condition": "Ovarian Cysts",
+    "symptoms": [
+      "pelvic pain",
+      "bloating",
+      "painful periods"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Gynecology",
+    "additional_info": "Ovarian Cysts is a medical condition that requires consultation with Gynecology."
+  },
+  {
+    "condition": "Prostate Enlargement",
+    "symptoms": [
+      "frequent urination",
+      "weak stream",
+      "difficulty starting"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Urology",
+    "additional_info": "Prostate Enlargement is a medical condition that requires consultation with Urology."
+  },
+  {
+    "condition": "Prostatitis",
+    "symptoms": [
+      "pelvic pain",
+      "difficult urination",
+      "fever",
+      "chills"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Urology",
+    "additional_info": "Prostatitis is a medical condition that requires consultation with Urology."
+  },
+  {
+    "condition": "Erectile Dysfunction",
+    "symptoms": [
+      "difficulty getting erection",
+      "difficulty maintaining erection"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Urology",
+    "additional_info": "Erectile Dysfunction is a medical condition that requires consultation with Urology."
+  },
+  {
+    "condition": "Testicular Torsion",
+    "symptoms": [
+      "severe testicular pain",
+      "swelling",
+      "nausea"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Urology",
+    "additional_info": "Testicular Torsion is a medical condition that requires consultation with Urology."
+  },
+  {
+    "condition": "Hernia",
+    "symptoms": [
+      "bulge",
+      "pain",
+      "discomfort",
+      "weakness"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "General Practice",
+    "additional_info": "Hernia is a medical condition that requires consultation with General Practice."
+  },
+  {
+    "condition": "Appendicitis",
+    "symptoms": [
+      "abdominal pain",
+      "nausea",
+      "vomiting",
+      "fever"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Emergency Medicine",
+    "additional_info": "Appendicitis is a medical condition that requires consultation with Emergency Medicine."
+  },
+  {
+    "condition": "Diverticulitis",
+    "symptoms": [
+      "abdominal pain",
+      "fever",
+      "nausea",
+      "constipation"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Gastroenterology",
+    "additional_info": "Diverticulitis is a medical condition that requires consultation with Gastroenterology."
+  },
+  {
+    "condition": "Pancreatitis",
+    "symptoms": [
+      "severe abdominal pain",
+      "nausea",
+      "vomiting",
+      "fever"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Gastroenterology",
+    "additional_info": "Pancreatitis is a medical condition that requires consultation with Gastroenterology."
+  },
+  {
+    "condition": "Cirrhosis",
+    "symptoms": [
+      "fatigue",
+      "jaundice",
+      "swelling",
+      "confusion"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Gastroenterology",
+    "additional_info": "Cirrhosis is a medical condition that requires consultation with Gastroenterology."
+  },
+  {
+    "condition": "Hepatitis",
+    "symptoms": [
+      "fatigue",
+      "jaundice",
+      "abdominal pain",
+      "nausea"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Infectious Disease",
+    "additional_info": "Hepatitis is a medical condition that requires consultation with Infectious Disease."
+  },
+  {
+    "condition": "HIV/AIDS",
+    "symptoms": [
+      "fatigue",
+      "fever",
+      "weight loss",
+      "infections"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Infectious Disease",
+    "additional_info": "HIV/AIDS is a medical condition that requires consultation with Infectious Disease."
+  },
+  {
+    "condition": "Tuberculosis",
+    "symptoms": [
+      "persistent cough",
+      "weight loss",
+      "night sweats",
+      "fever"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Infectious Disease",
+    "additional_info": "Tuberculosis is a medical condition that requires consultation with Infectious Disease."
+  },
+  {
+    "condition": "Malaria",
+    "symptoms": [
+      "fever",
+      "chills",
+      "sweating",
+      "headache"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Infectious Disease",
+    "additional_info": "Malaria is a medical condition that requires consultation with Infectious Disease."
+  },
+  {
+    "condition": "Dengue Fever",
+    "symptoms": [
+      "high fever",
+      "severe headache",
+      "joint pain",
+      "rash"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Infectious Disease",
+    "additional_info": "Dengue Fever is a medical condition that requires consultation with Infectious Disease."
+  },
+  {
+    "condition": "Chickenpox",
+    "symptoms": [
+      "itchy rash",
+      "fever",
+      "fatigue",
+      "blisters"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Pediatrics",
+    "additional_info": "Chickenpox is a medical condition that requires consultation with Pediatrics."
+  },
+  {
+    "condition": "Measles",
+    "symptoms": [
+      "fever",
+      "cough",
+      "rash",
+      "red eyes"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Pediatrics",
+    "additional_info": "Measles is a medical condition that requires consultation with Pediatrics."
+  },
+  {
+    "condition": "Mumps",
+    "symptoms": [
+      "swollen salivary glands",
+      "fever",
+      "headache",
+      "muscle aches"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Pediatrics",
+    "additional_info": "Mumps is a medical condition that requires consultation with Pediatrics."
+  },
+  {
+    "condition": "Whooping Cough",
+    "symptoms": [
+      "severe coughing fits",
+      "vomiting",
+      "exhaustion"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Pediatrics",
+    "additional_info": "Whooping Cough is a medical condition that requires consultation with Pediatrics."
+  },
+  {
+    "condition": "Hand Foot Mouth Disease",
+    "symptoms": [
+      "fever",
+      "mouth sores",
+      "skin rash",
+      "throat pain"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Pediatrics",
+    "additional_info": "Hand Foot Mouth Disease is a medical condition that requires consultation with Pediatrics."
+  },
+  {
+    "condition": "Roseola",
+    "symptoms": [
+      "high fever",
+      "rash",
+      "irritability"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Pediatrics",
+    "additional_info": "Roseola is a medical condition that requires consultation with Pediatrics."
+  },
+  {
+    "condition": "Croup",
+    "symptoms": [
+      "barking cough",
+      "difficulty breathing",
+      "hoarse voice"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Pediatrics",
+    "additional_info": "Croup is a medical condition that requires consultation with Pediatrics."
+  },
+  {
+    "condition": "Scarlet Fever",
+    "symptoms": [
+      "sore throat",
+      "fever",
+      "red rash",
+      "strawberry tongue"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Pediatrics",
+    "additional_info": "Scarlet Fever is a medical condition that requires consultation with Pediatrics."
+  },
+  {
+    "condition": "Impetigo",
+    "symptoms": [
+      "red sores",
+      "honey-colored crust",
+      "itching"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Impetigo is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Ringworm",
+    "symptoms": [
+      "circular rash",
+      "itching",
+      "red border"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Ringworm is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Scabies",
+    "symptoms": [
+      "intense itching",
+      "rash",
+      "burrow tracks"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Scabies is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Lice",
+    "symptoms": [
+      "itching",
+      "visible eggs",
+      "scalp irritation"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Lice is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Shingles",
+    "symptoms": [
+      "painful rash",
+      "blistering",
+      "nerve pain",
+      "fever"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Shingles is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Acne",
+    "symptoms": [
+      "pimples",
+      "blackheads",
+      "oily skin",
+      "inflammation"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Acne is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Rosacea",
+    "symptoms": [
+      "facial redness",
+      "visible blood vessels",
+      "bumps"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Rosacea is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Vitiligo",
+    "symptoms": [
+      "loss of skin color",
+      "white patches",
+      "premature graying"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Vitiligo is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Alopecia",
+    "symptoms": [
+      "hair loss",
+      "bald patches",
+      "thinning"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Alopecia is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Warts",
+    "symptoms": [
+      "rough bumps",
+      "skin growths",
+      "cauliflower appearance"
+    ],
+    "urgency_level": "low",
+    "recommended_specialty": "Dermatology",
+    "additional_info": "Warts is a medical condition that requires consultation with Dermatology."
+  },
+  {
+    "condition": "Melanoma",
+    "symptoms": [
+      "changing mole",
+      "irregular borders",
+      "color variation"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Melanoma is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Basal Cell Carcinoma",
+    "symptoms": [
+      "pearly bump",
+      "bleeding",
+      "slow growth"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Basal Cell Carcinoma is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Lung Cancer",
+    "symptoms": [
+      "persistent cough",
+      "chest pain",
+      "weight loss",
+      "shortness of breath"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Lung Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Breast Cancer",
+    "symptoms": [
+      "breast lump",
+      "nipple changes",
+      "skin dimpling"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Breast Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Colon Cancer",
+    "symptoms": [
+      "bowel changes",
+      "blood in stool",
+      "abdominal pain",
+      "weight loss"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Colon Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Prostate Cancer",
+    "symptoms": [
+      "urination problems",
+      "blood in urine",
+      "pelvic discomfort"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Prostate Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Leukemia",
+    "symptoms": [
+      "fatigue",
+      "frequent infections",
+      "easy bruising",
+      "weight loss"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Leukemia is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Lymphoma",
+    "symptoms": [
+      "swollen lymph nodes",
+      "fever",
+      "night sweats",
+      "weight loss"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Lymphoma is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Ovarian Cancer",
+    "symptoms": [
+      "bloating",
+      "pelvic pain",
+      "urinary urgency",
+      "feeling full"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Ovarian Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Pancreatic Cancer",
+    "symptoms": [
+      "abdominal pain",
+      "weight loss",
+      "jaundice",
+      "loss of appetite"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Pancreatic Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Kidney Cancer",
+    "symptoms": [
+      "blood in urine",
+      "flank pain",
+      "lump",
+      "fatigue"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Kidney Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Bladder Cancer",
+    "symptoms": [
+      "blood in urine",
+      "frequent urination",
+      "painful urination"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Bladder Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Brain Tumor",
+    "symptoms": [
+      "headaches",
+      "seizures",
+      "vision changes",
+      "balance problems"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Neurology",
+    "additional_info": "Brain Tumor is a medical condition that requires consultation with Neurology."
+  },
+  {
+    "condition": "Thyroid Cancer",
+    "symptoms": [
+      "neck lump",
+      "voice changes",
+      "difficulty swallowing"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Thyroid Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Esophageal Cancer",
+    "symptoms": [
+      "difficulty swallowing",
+      "chest pain",
+      "weight loss"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Esophageal Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Stomach Cancer",
+    "symptoms": [
+      "abdominal pain",
+      "nausea",
+      "weight loss",
+      "feeling full"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Stomach Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Liver Cancer",
+    "symptoms": [
+      "abdominal pain",
+      "weight loss",
+      "jaundice",
+      "fatigue"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Liver Cancer is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Sarcoma",
+    "symptoms": [
+      "lump",
+      "swelling",
+      "pain",
+      "limited movement"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Oncology",
+    "additional_info": "Sarcoma is a medical condition that requires consultation with Oncology."
+  },
+  {
+    "condition": "Chronic Kidney Disease",
+    "symptoms": [
+      "fatigue",
+      "swelling",
+      "urination changes",
+      "nausea"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Nephrology",
+    "additional_info": "Chronic Kidney Disease is a medical condition that requires consultation with Nephrology."
+  },
+  {
+    "condition": "Acute Kidney Injury",
+    "symptoms": [
+      "decreased urination",
+      "swelling",
+      "confusion",
+      "fatigue"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Nephrology",
+    "additional_info": "Acute Kidney Injury is a medical condition that requires consultation with Nephrology."
+  },
+  {
+    "condition": "Lupus",
+    "symptoms": [
+      "fatigue",
+      "joint pain",
+      "rash",
+      "fever"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Rheumatology",
+    "additional_info": "Lupus is a medical condition that requires consultation with Rheumatology."
+  },
+  {
+    "condition": "Scleroderma",
+    "symptoms": [
+      "skin hardening",
+      "raynaud's",
+      "digestive issues"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Rheumatology",
+    "additional_info": "Scleroderma is a medical condition that requires consultation with Rheumatology."
+  },
+  {
+    "condition": "Vasculitis",
+    "symptoms": [
+      "fever",
+      "fatigue",
+      "weight loss",
+      "rash"
+    ],
+    "urgency_level": "high",
+    "recommended_specialty": "Rheumatology",
+    "additional_info": "Vasculitis is a medical condition that requires consultation with Rheumatology."
+  },
+  {
+    "condition": "Polymyalgia Rheumatica",
+    "symptoms": [
+      "muscle pain",
+      "stiffness",
+      "fatigue"
+    ],
+    "urgency_level": "medium",
+    "recommended_specialty": "Rheumatology",
+    "additional_info": "Polymyalgia Rheumatica is a medical condition that requires consultation with Rheumatology."
+  }
+]

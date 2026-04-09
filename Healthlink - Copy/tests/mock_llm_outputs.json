@@ -1,0 +1,68 @@
+{
+  "symptom_extraction": {
+    "symptoms": [
+      {
+        "name": "headache",
+        "severity": "severe",
+        "duration": "3 days"
+      },
+      {
+        "name": "fever",
+        "severity": "moderate",
+        "duration": "3 days"
+      }
+    ],
+    "primary_complaint": "severe headache with fever",
+    "urgency_level": "medium",
+    "additional_context": "Patient reports sensitivity to light and sound"
+  },
+  "doctor_recommendation": {
+    "recommended_doctors": [
+      {
+        "name": "Sarah Johnson",
+        "specialty": "General Practice",
+        "experience_years": 15,
+        "rating": 4.8,
+        "availability": "Mon-Fri 9AM-5PM",
+        "location": "Downtown Medical Center"
+      }
+    ],
+    "specialty_rationale": "General practitioner recommended for initial assessment of headache and fever",
+    "match_score": 0.85
+  },
+  "scheduling_recommendation": {
+    "available_slots": [
+      {
+        "doctor_name": "Dr. Sarah Johnson",
+        "date": "2024-02-15",
+        "time": "09:00",
+        "duration_minutes": 30,
+        "slot_id": "Dr._Sarah_Johnson_20240215_0900"
+      }
+    ],
+    "recommended_slot": {
+      "doctor_name": "Dr. Sarah Johnson",
+      "date": "2024-02-15",
+      "time": "09:00",
+      "duration_minutes": 30,
+      "slot_id": "Dr._Sarah_Johnson_20240215_0900"
+    },
+    "scheduling_notes": "Early morning slot recommended for prompt attention"
+  },
+  "health_summary": {
+    "summary": "Based on your reported symptoms of severe headache and moderate fever lasting 3 days, we recommend consulting with a healthcare professional for proper evaluation.",
+    "key_findings": [
+      "Severe headache for 3 days",
+      "Moderate fever for 3 days",
+      "Sensitivity to light and sound"
+    ],
+    "recommended_actions": [
+      "Schedule appointment with Dr. Sarah Johnson",
+      "Monitor temperature regularly",
+      "Stay hydrated and rest",
+      "Seek immediate care if symptoms worsen"
+    ],
+    "urgency_assessment": "medium",
+    "disclaimer": "This is not a medical diagnosis. Please consult with healthcare professionals for medical advice."
+  }
+}
